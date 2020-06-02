@@ -3,6 +3,7 @@
 This is a (heavily) modified version of Lilbud's switch theme
 
 ### Changelog:
+
 <br/>
 #### 4.0.1
 
@@ -17,6 +18,7 @@ This is a (heavily) modified version of Lilbud's switch theme
 - Made colour scheme a lot more similar to the Nintendo Switch's
 <br/>
 ### Todo:
+
 <br/>
 
 - [x] Make colours better
