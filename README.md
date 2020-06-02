@@ -3,7 +3,7 @@
 This is a (heavily) modified version of Lilbud's switch theme
 
 ### Changelog:
-
+<br/>
 #### 4.0.1
 
 
@@ -16,8 +16,14 @@ This is a (heavily) modified version of Lilbud's switch theme
 - Fixed squished gamecard icon by changing the file format to a png
 - Made colour scheme a lot more similar to the Nintendo Switch's
 <br/>
+### Todo:
+<br/>
 
+- [x] Make colours better
+- [ ] Fix mini-menu
 
+<br/>
+<br/>
 ### Credits/Acknowledgements:
 
 Theme is based on the ```Switch Theme for Launchbox by Grila```
