@@ -4,8 +4,6 @@ This is a (heavily) modified version of Lilbud's switch theme
 
 ### Changelog:
 
-<br/>
-
 #### 4.0.1
 
 
