@@ -1,5 +1,6 @@
 # Nintendo Switch Theme 4.0 for RetroPie
 
+This is a modified version of Lilbud's switch theme
 
 ### Changelog:
 
