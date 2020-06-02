@@ -4,6 +4,11 @@ This is a (heavily) modified version of Lilbud's switch theme
 
 ### Changelog:
 
+#### 4.0.1
+
+
+
+#### 4.0.0
 - Fixed bugs:
   - Fixed game card icon squished in 4:3 mode
   - Fixed some minor technical bugs
