@@ -5,7 +5,8 @@ This is a (heavily) modified version of Lilbud's switch theme
 ### Changelog:
 
 #### 4.0.1:
-
+- Added svg mini-menu
+  - Fixed bug where svgs dissapeared
 #### 4.0.0:
 - Fixed bugs:
   - Fixed game card icon squished in 4:3 mode
@@ -18,17 +19,20 @@ This is a (heavily) modified version of Lilbud's switch theme
 ### Todo:
 
 - [x] Make colours better
-- [ ] Fix mini-menu
+- [x] Convert mini-menu to svg
+- [ ] Convert user icon to svg
+- [ ] Add a 4:3 mode
 
 <br/>
 <br/>
 
 ### Credits/Acknowledgements:
 
+Theme improved by: Bluebotlaboratories
+
 Theme is based on the ```Switch Theme for Launchbox by Grila```
 
-Switch Icon (lower left hand side): [nintendo switch by Sweet Farm from the Noun Project](https://thenounproject.com/term/nintendo-switch/694755/)
-
-
 Theme created by: Lilbud
-Theme improved by: Bluebotlaboratories
+
+Mini menu and switch icon (lower left hand side): [Paraskevas Dinakis
+](https://codepen.io/perry_nt)
