@@ -31,7 +31,7 @@ based on:       Switch Theme for Launchbox by Grila
 		</image>
 		
 		<image name="overlay" extra="true">      
-			<path>./../assets/light/overlay.png</path>
+			<path>./../assets/light/overlay.svg</path>
 		</image>
 		
 	</view>

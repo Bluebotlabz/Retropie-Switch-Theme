@@ -51,10 +51,9 @@ based on:       Switch Theme for Launchbox by Grila
 		<view name="system, basic, detailed, video">
 		
 		<image name="Switch Icon" extra="true">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<size>1 1</size>        
-			<path>./assets/switchIcon.png</path>
+			<origin>0.5 0.5</origin>
+			<pos>0.08 0.95</pos>
+			<path>./assets/switchIcon.svg</path>
 			<zIndex>99</zIndex>
 		</image>
 

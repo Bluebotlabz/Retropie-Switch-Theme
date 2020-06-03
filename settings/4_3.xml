@@ -11,6 +11,10 @@ based on:       Switch Theme for Launchbox by Grila
 	<formatVersion>4</formatVersion>
 	
 	<view name="system, basic, detailed, video">
+	
+		<image name="Switch Icon" extra="true">			
+			<size>0.11 0.05</size>
+		</image>
 
 		<image name="gamelistbuttons, systembuttons" extra="true">
 			<pos>0.988 0.95</pos>
