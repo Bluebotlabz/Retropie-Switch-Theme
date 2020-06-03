@@ -20,6 +20,8 @@ This is a (heavily) modified version of Lilbud's switch theme
 
 - [x] Make colours better
 - [x] Convert mini-menu to svg
+- [ ] Fix font
+- [ ] Fix metadata rendering
 - [ ] Convert user icon to svg
 - [ ] Add a 4:3 mode
 
