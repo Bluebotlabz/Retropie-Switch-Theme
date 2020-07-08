@@ -30,8 +30,8 @@ This is a (heavily) modified version of Lilbud's switch theme
 - [x] Convert mini-menu to svg
 - [x] Fix font
 - [x] Fix metadata rendering
-- [ ] Convert user icon to svg
 - [x] Add a 4:3 mode (Halfway done!)
+- [ ] Convert user icon to svg
 
 <br/>
 <br/>
@@ -40,9 +40,9 @@ This is a (heavily) modified version of Lilbud's switch theme
 
 Theme improved by: Bluebotlaboratories
 
-Theme is based on the ```Switch Theme for Launchbox by Grila```
-
 Theme created by: Lilbud
 
-Mini menu and switch icon (lower left hand side): [Paraskevas Dinakis
+Theme is based on the ```Switch Theme for Launchbox by Grila```
+
+Mini menu and switch icon(s) (lower left hand side): [Paraskevas Dinakis
 ](https://codepen.io/perry_nt)
