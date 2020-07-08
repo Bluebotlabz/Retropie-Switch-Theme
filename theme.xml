@@ -23,10 +23,10 @@ based on:       Switch Theme for Launchbox by Grila
 			<path>./art/${system.theme}.jpg</path>
 		</image>
 		
-		<image name="overlay" extra="true">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<size>1 1</size>        
+		<image name="miniMenu" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.805</pos>
+			<size>0 0.125</size>
 			<zIndex>100</zIndex>
 		</image>
 		
@@ -115,10 +115,18 @@ based on:       Switch Theme for Launchbox by Grila
 			<path>./assets/box.png</path>
 		</image>
 		
-		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_developer, md_genre, md_players, md_playcount, md_releasedate, md_description" extra="true">
+		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount" extra="true">
 			<forceUppercase>0</forceUppercase>
 			<fontSize>0.028</fontSize>
 			<fontPath>${mainFont}</fontPath>
+			<size>0.12 0.04</size>
+		</text>
+		
+		<text name="md_developer, md_genre, md_players, md_playcount, md_releasedate, md_description" extra="true">
+			<forceUppercase>0</forceUppercase>
+			<fontSize>0.028</fontSize>
+			<fontPath>${mainFont}</fontPath>
+			<size>0.14 0.04</size>
 		</text>
 		
 		<datetime name="md_releasedate">
