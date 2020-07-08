@@ -4,9 +4,13 @@ This is a (heavily) modified version of Lilbud's switch theme
 
 ### Changelog:
 
+#### 4.0.3:
+- 4:3 Mode fully implemented
+- Fixed metadata bugs for 4:3 mode
+- Other small improvements
 #### 4.0.2:
 - Fixed metadata bug (partialy)
-- Partialy implemented 4:3 mode
+- Partialy implemented 4:3 mode (Beta)
 - Fixed mini-menu glitches
 #### 4.0.1:
 - Added svg mini-menu
@@ -25,9 +29,9 @@ This is a (heavily) modified version of Lilbud's switch theme
 - [x] Make colours better
 - [x] Convert mini-menu to svg
 - [x] Fix font
-- [ ] Fix metadata rendering
+- [x] Fix metadata rendering
 - [ ] Convert user icon to svg
-- [ ] Add a 4:3 mode (Halfway done!)
+- [x] Add a 4:3 mode (Halfway done!)
 
 <br/>
 <br/>
