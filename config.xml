@@ -15,5 +15,4 @@ based on:       Switch Theme for Launchbox by Grila
 	
 	<!--Choose Aspect Ratio (16_9 or 4_3)-->
 	<include>./settings/16_9.xml</include>
-
 </theme>
