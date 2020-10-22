@@ -9,20 +9,15 @@ based on:       Switch Theme for Launchbox by Grila
 
 <theme>
 	<formatVersion>4</formatVersion>
-	
 	<!-- Color Variables -->
 	<variables>
-		
 		<backgroundColor>2D2D2D</backgroundColor>
- 
 		<mainColor>1ABCFD</mainColor>
 		<secondaryColor>FAFAFA</secondaryColor>
 		<selectColour>02BFC8</selectColour>
- 
 	</variables>
 	
 	<view name="system">
-	
 		<text name="system_name_1" extra="true">
 			<color>${mainColor}</color>
 		</text>
@@ -34,9 +29,7 @@ based on:       Switch Theme for Launchbox by Grila
 		<image name="miniMenu" extra="true">       
 			<path>./../assets/dark/miniMenu.svg</path>
 		</image>
-		
 	</view>
-		
 	<view name="system, basic, detailed, video">
 		
 		<image name="background">
@@ -55,11 +48,8 @@ based on:       Switch Theme for Launchbox by Grila
             <textColor>${secondaryColor}</textColor>
             <iconColor>${secondaryColor}</iconColor>
 		</helpsystem>
-	
 	</view>
-	
 	<view name="detailed, video">
-		
 		<textlist name="gamelist">
 			<selectedColor>${selectColour}</selectedColor>
 			<primaryColor>${secondaryColor}</primaryColor>
@@ -75,9 +65,7 @@ based on:       Switch Theme for Launchbox by Grila
 		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_developer, md_genre, md_players, md_playcount, md_releasedate, md_description">
 			<color>${secondaryColor}</color>
 		</text>	
-	
 	</view>
-	
 	<view name="basic, detailed, video">
 		
 		<text name="system_name_1" extra="true">
@@ -94,21 +82,14 @@ based on:       Switch Theme for Launchbox by Grila
 			<secondaryColor>${secondaryColor}</secondaryColor>
 			<selectorColor>00000000</selectorColor>
 		</textlist>	
-	
 	</view>
-
-<feature supported="carousel">
-  
-  <view name="system">
-
-	<text name="systemInfo">
-      <color>${mainColor}</color>
-	</text>
-
-  </view>
-
-</feature>
- 
+	<feature supported="carousel">
+		<view name="system">
+			<text name="systemInfo">
+				<color>${mainColor}</color>
+			</text>
+		</view>
+	</feature>
 </theme>
 	
 	
