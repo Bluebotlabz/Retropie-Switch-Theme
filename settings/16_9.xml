@@ -9,9 +9,7 @@ based on:       Switch Theme for Launchbox by Grila
 
 <theme>
 	<formatVersion>4</formatVersion>
-	
 	<view name="system">
-		
 		<image name="arrowblock" extra="true">
 			<size>0.023 0.047</size>
 		</image>	
@@ -25,11 +23,8 @@ based on:       Switch Theme for Launchbox by Grila
 			<pos>0.5 0.75</pos>
 			<size>0 0.1</size>
 		</image>
-	
 	</view>
-	
 	<view name="system, basic, detailed, video">
-	
 		<image name="Switch Icon" extra="true">			
 			<size>0.07 0.04</size>
 		</image>
@@ -39,11 +34,8 @@ based on:       Switch Theme for Launchbox by Grila
             <pos>0.958 0.95</pos>
 			<origin>1.0 0.5</origin>
 		</helpsystem>
-	
 	</view>
-	
 	<view name="detailed, video">	
-
 <!-------------PLAYERS------------------->		
 		<text name="md_lbl_players">
 			<pos>0.657 0.336</pos>
@@ -80,8 +72,7 @@ based on:       Switch Theme for Launchbox by Grila
 		<datetime name="md_lastplayed">
 			<pos>1 1</pos>
 		</datetime>
-
-</view>
+	</view>
 </theme>
 		
 		
