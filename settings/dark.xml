@@ -1,6 +1,6 @@
 <!--
 theme name:		Switch
-version:		4.0.3
+version:		4.0.4
 author:			Lilbud and Bluebotlaboratories
 email:			bvw20002010@gmail.com
 license:		creative commons CC-BY-NC-SA
@@ -51,9 +51,10 @@ based on:       Switch Theme for Launchbox by Grila
 			<color>${secondaryColor}</color>
 		</image>
 		
-		<image name="gamelistbuttons, systembuttons" extra="true">
-			<color>${secondaryColor}</color>
-		</image>
+		<helpsystem name="help">
+            <textColor>${secondaryColor}</textColor>
+            <iconColor>${secondaryColor}</iconColor>
+		</helpsystem>
 	
 	</view>
 	
