@@ -4,6 +4,8 @@ This is a (heavily) modified version of Lilbud's switch theme
 
 ### Changelog:
 
+#### 4.0.4:
+- Added dynamic helpsystem instead of svgs with buttons
 #### 4.0.3:
 - 4:3 Mode fully implemented
 - Fixed metadata bugs for 4:3 mode
@@ -31,6 +33,7 @@ This is a (heavily) modified version of Lilbud's switch theme
 - [x] Fix font
 - [x] Fix metadata rendering
 - [x] Add a 4:3 mode (Halfway done!)
+- [x] Create dynamic help system for buttons to press
 - [ ] Convert user icon to svg
 
 <br/>
@@ -40,7 +43,7 @@ This is a (heavily) modified version of Lilbud's switch theme
 
 Theme improved by: Bluebotlaboratories
 
-Theme created by: Lilbud
+Original theme created by: Lilbud
 
 Theme is based on the ```Switch Theme for Launchbox by Grila```
 
