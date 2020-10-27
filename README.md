@@ -34,8 +34,8 @@ This is a (heavily) modified version of Lilbud's switch theme
 - [x] Fix metadata rendering
 - [x] Add a 4:3 mode (Halfway done!)
 - [x] Create dynamic help system for buttons to press
+- [ ] Make 4.0.4 4:3 compatible
 - [ ] Convert user icon to svg
-
 <br/>
 <br/>
 
