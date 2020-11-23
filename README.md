@@ -32,7 +32,7 @@ This is a (heavily) modified version of Lilbud's switch theme
 - [x] Convert mini-menu to svg
 - [x] Fix font
 - [x] Fix metadata rendering
-- [x] Add a 4:3 mode (Halfway done!)
+- [x] Add a 4:3 mode
 - [x] Create dynamic help system for buttons to press
 - [ ] Make 4.0.4 4:3 compatible
 - [ ] Convert user icon to svg
@@ -45,7 +45,7 @@ Theme improved by: Bluebotlaboratories
 
 Original theme created by: Lilbud
 
-Theme is based on the ```Switch Theme for Launchbox by Grila```
+Theme is based on the: ```Switch Theme for Launchbox by Grila```
 
 Mini menu and switch icon(s) (lower left hand side): [Paraskevas Dinakis
 ](https://codepen.io/perry_nt)
