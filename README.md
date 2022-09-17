@@ -3,7 +3,7 @@
 This is a (heavily) modified version of Lilbud's switch theme
 To use it, simply download the repo or latest release as a zip and install it in RetroPie
 
-### Changelog:
+## Changelog:
 
 #### 4.0.4:
 - Added dynamic helpsystem instead of svgs with buttons
@@ -27,7 +27,7 @@ To use it, simply download the repo or latest release as a zip and install it in
 - Made colour scheme a lot more similar to the Nintendo Switch's
 <br/>
 
-### Todo:
+## Todo:
 
 - [x] Make colours better
 - [x] Convert mini-menu to svg
@@ -40,7 +40,7 @@ To use it, simply download the repo or latest release as a zip and install it in
 <br/>
 <br/>
 
-### Credits/Acknowledgements:
+## Credits/Acknowledgements:
 
 Theme improved by: Bluebotlaboratories
 
