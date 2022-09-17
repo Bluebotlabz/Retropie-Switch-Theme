@@ -1,6 +1,7 @@
 # Nintendo Switch Theme 4.0 for RetroPie
 
 This is a (heavily) modified version of Lilbud's switch theme
+To use it, simply download the repo or latest release as a zip and install it in RetroPie
 
 ### Changelog:
 
