@@ -25,7 +25,7 @@ To use it, simply download the repo or latest release as a zip and install it in
 - Changed background to look more like the official Switch
 - Fixed squished gamecard icon by changing the file format to a png
 - Made colour scheme a lot more similar to the Nintendo Switch's
-<br/>
+
 
 ## Todo:
 
@@ -37,8 +37,7 @@ To use it, simply download the repo or latest release as a zip and install it in
 - [x] Create dynamic help system for buttons to press
 - [ ] Make 4.0.4 4:3 compatible
 - [ ] Convert user icon to svg
-<br/>
-<br/>
+
 
 ## Credits/Acknowledgements:
 
